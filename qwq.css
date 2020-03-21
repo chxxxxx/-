@@ -1,0 +1,15 @@
+.leftthing{
+    left: 0px;
+    top: 0px;
+    width: 300px; 
+    height: 1000px;
+    background-color: white;
+}
+
+.headimg{
+    width: 100px;
+    height: 100px;
+    padding-left: 10px;
+    padding-top: 10px;
+    vertical-align: middle;
+}
