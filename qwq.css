@@ -13,3 +13,13 @@
     padding-top: 10px;
     vertical-align: middle;
 }
+
+.content{
+    text-align: center;
+}
+
+.content-text{
+    font-size: 20px;
+    background-color: black;
+    color: white;
+}
