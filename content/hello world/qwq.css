@@ -1,0 +1,36 @@
+.leftthing{
+    opacity: 0.7;
+    float: left;
+    left: 0px;
+    top: 0px;
+    width: 300px; 
+    height: 1000px;
+    margin-right: 100px;
+    background-color: white;
+}
+
+.headimg{
+    width: 100px;
+    height: 100px;
+    padding-left: 10px;
+    padding-top: 10px;
+    vertical-align: middle;
+}
+
+.content{
+    text-align: center;
+}
+
+.content-text{
+    font-size: 20px;
+    background-color: white;
+    color: black;
+}
+
+.content-thing{
+    opacity: 0.7;
+    float: left;
+    background-color: white;
+    height: 1000px;
+    width: 900px;
+}
