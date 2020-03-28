@@ -3,7 +3,7 @@
     float: left;
     left: 0px;
     top: 0px;
-    width: 300px; 
+    width: 20%; 
     height: 1000px;
     margin-right: 100px;
     background-color: white;
@@ -32,5 +32,5 @@
     float: left;
     background-color: white;
     height: 1000px;
-    width: 900px;
+    width: 60%;
 }
